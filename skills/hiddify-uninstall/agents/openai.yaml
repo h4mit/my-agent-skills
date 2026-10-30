@@ -1,0 +1,4 @@
+interface:
+  display_name: "Uninstall Hiddify"
+  short_description: "Remove Hiddify while keeping saved profiles"
+  default_prompt: "Use $hiddify-uninstall to remove Hiddify from this machine, preserve my profiles, and verify networking afterward."

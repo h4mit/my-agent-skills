@@ -1,0 +1,4 @@
+interface:
+  display_name: "OS Network Repair"
+  short_description: "Repair connectivity and Happ proxy setup"
+  default_prompt: "Use $os-network-repair to diagnose this machine and configure my supplied Happ subscription with verified routing and login connection."
