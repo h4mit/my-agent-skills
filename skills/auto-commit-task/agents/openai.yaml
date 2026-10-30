@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Commit Task"
+  short_description: "Commit completed work with a meaningful message"
+  default_prompt: "Use $auto-commit-task to commit the completed task safely."
